@@ -8,3 +8,5 @@ An [Appwrite](https://appwrite.io) soft fork for building massively scaling and 
 Most notable features to be added to Appwrite:
 - Native Support for Custodial Cryptocurrency Wallets displayed in the Console (Supported are Bitcoin and many EVM-coins, tokens) whereas it is for the admin to decide whether the Seedphrase & Privatekey is exposed to the user
 - Ready to scale to C10M - 10 Million concurrent users
+
+Check out our [wiki](https://github.com/cryptwrite/.github/wiki)
