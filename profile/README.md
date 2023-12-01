@@ -1,4 +1,4 @@
-# Cryptwrite
+# Meet Cryptwrite
 
 An [Appwrite](https://appwrite.io) hard fork for building massively scaling and performant, web3 ready, (de)centralized crypto exchanges & multichain swaps, alongside traditional web2 applications and social networks. Intuitive security, allows for huge platforms & (d)Apps with reliable serverless functions in NodeJS 20+ to happen. Check out our [wiki](https://github.com/cryptwrite/cryptwrite/wiki)
 
