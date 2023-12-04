@@ -1,6 +1,6 @@
 # Meet Cryptwrite
 
-An [Appwrite](https://appwrite.io) hard fork for building massively scaling and performant, respectful of web3 core values and principles, centralized crypto exchanges & multichain swaps, alongside traditional web2 applications and social networks. Intuitive security, allows for huge platforms & (d)Apps with reliable serverless functions in NodeJS 20+ to happen. Check out our [wiki](https://github.com/cryptwrite/cryptwrite/wiki)
+Meet [Cryptwrite](https://cryptwrite.io) an [Appwrite](https://appwrite.io) hard fork for building massively scaling and performant, respectful of web3 core values and principles, centralized crypto exchanges & multichain swaps, alongside traditional web2 applications and social networks. Intuitive security, allows for huge platforms & (d)Apps with reliable serverless functions in NodeJS 20+ to happen. Check out our [wiki](https://github.com/cryptwrite/cryptwrite/wiki)
 
 See Below for upcoming features and integrations, hard breaks with Appwrite. ⬇️
 
