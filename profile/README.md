@@ -11,7 +11,7 @@ See Below for upcoming features and integrations, hard breaks with Appwrite. ⬇
 | Crypto Console         | Similiar to Auth Section and User Tab, but Crypto and Wallets         | ❌ Won't get merged  | Active Development |
 
 
-![cryptwrite-min](https://github.com/cryptwrite/.github/assets/114028070/0226849f-61c2-4c97-8923-74faafa9954d)
+![logo](https://github.com/cryptwrite/.github/assets/114028070/3221456b-bca5-461a-9d56-8afe7bb0cc99)
 
 
 Most notable features to be added to Appwrite:
